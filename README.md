@@ -2,4 +2,6 @@
 The C code used for my seniors project.
 
 # Project Description
-Self balancing Stewarts Platform, using 6 digital motors and Arduino.
+ - Project aims to alleviate condition of a patient while travelling in an ambulance.
+ - Balancing was achieved using Stewart's Platform mechanism, which gives 6 degrees of freedom.
+ - The project makes use of digital servos and Arduino microcontroller, running with 'C' programming.
